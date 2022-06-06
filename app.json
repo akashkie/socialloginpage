@@ -1,0 +1,12 @@
+{
+  "name": "socialloginpage",
+  "displayName": "socialloginpage",
+
+  "expo": {
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    },
+    
+    "plugins": ["@react-native-google-signin/google-signin"]
+  }
+}
